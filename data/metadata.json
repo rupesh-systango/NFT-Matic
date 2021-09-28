@@ -1,0 +1,20 @@
+{
+  "attributes": [
+    {
+      "recipient": "Address",
+      "typeID": "UInt64",
+      "eventID": "UInt64",
+      "section": "UInt64",
+      "row": "UInt64",
+      "seat": "UInt64",
+      "ticketOwner": "String",
+      "ticketprice": "UFix64",
+      "originalTicketOwner": "String",
+      "trait_type": "Color",
+      "value": "Pink"
+    }
+  ],
+  "description": "Jaya Kisori bajan sandya",
+  "image": "https://ipfs.io/ipfs/QmYhvhwq5HN3pUcDbvJEs3M3TQxPmAahYLtFWigrNykHcW",
+  "name": "Ek Syam Baba ke Naam"
+}
