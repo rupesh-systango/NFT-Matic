@@ -1,5 +1,5 @@
-const ArtCollectible = artifacts.require("ArtCollectible");
+const ERC721NFT = artifacts.require("ERC721NFT");
 
 module.exports = function (deployer) {
-  deployer.deploy(ArtCollectible);
+  deployer.deploy(ERC721NFT);
 };
